@@ -1,0 +1,20 @@
+PODS:
+  - SCLAlertView (0.8)
+  - UICheckbox.Swift (1.0.0)
+
+DEPENDENCIES:
+  - SCLAlertView
+  - UICheckbox.Swift
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - SCLAlertView
+    - UICheckbox.Swift
+
+SPEC CHECKSUMS:
+  SCLAlertView: 6a77bb2edfc65e04dbe57725546cb4107a506b85
+  UICheckbox.Swift: 85715689206fac5bae38b308f19c2a3e00442c3b
+
+PODFILE CHECKSUM: 96ba341a826b40d7ed3e83c9853a617a83b01ccb
+
+COCOAPODS: 1.5.3
